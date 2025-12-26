@@ -4,46 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c19003be-6cad-4e56-8dae-3f4a994d56d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SDO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_не сделано/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_не сделано/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_не сделано/17_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-21/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-21/19-21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26/26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26/26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26/26_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_вопрос/3.1_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_вопрос/3.1_2_Gemini.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_вопрос/3_мое.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_вопрос/условие" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9.txt" afterDir="false" />
+    <list default="true" id="c19003be-6cad-4e56-8dae-3f4a994d56d6" name="Changes" comment="SDO">
+      <change beforePath="$PROJECT_DIR$/.idea/SDO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_не сделано/17.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_не сделано/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/17/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_не сделано/17_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/17/17_input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "J0hann772"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:J0hann772/SDO.git",
+    "accountId": "c4a65949-d3df-4153-a1d2-a13069e513f4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -85,6 +66,7 @@
     "Python.3.1_2_Мое.executor": "Run",
     "Python.tmp_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
@@ -234,6 +216,19 @@
       <option name="presentableId" value="Default" />
       <updated>1766691900547</updated>
     </task>
+    <task id="LOCAL-00001" summary="SDO">
+      <option name="closed" value="true" />
+      <created>1766788374881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766788374881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SDO" />
+    <option name="LAST_COMMIT_MESSAGE" value="SDO" />
   </component>
 </project>
